@@ -1,0 +1,11 @@
+/Users/shamimyousuf/repo/csharp/CSharpSelenium/CSharpSelenium/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/shamimyousuf/repo/csharp/CSharpSelenium/CSharpSelenium/bin/Debug/nunit.framework.dll
+/Users/shamimyousuf/repo/csharp/CSharpSelenium/CSharpSelenium/bin/Debug/CSharpSelenium.dll.mdb
+/Users/shamimyousuf/repo/csharp/CSharpSelenium/CSharpSelenium/bin/Debug/CSharpSelenium.dll
+/Users/shamimyousuf/repo/csharp/CSharpSelenium/CSharpSelenium/obj/Debug/CSharpSelenium.dll
+/Users/shamimyousuf/repo/csharp/CSharpSelenium/CSharpSelenium/obj/Debug/CSharpSelenium.dll.mdb
+/Users/shamimyousuf/repo/csharp/CSharpSelenium/CSharpSelenium/bin/Debug/Selenium.WebDriverBackedSelenium.dll
+/Users/shamimyousuf/repo/csharp/CSharpSelenium/CSharpSelenium/bin/Debug/WebDriver.dll
+/Users/shamimyousuf/repo/csharp/CSharpSelenium/CSharpSelenium/bin/Debug/WebDriver.Support.dll
+/Users/shamimyousuf/repo/csharp/CSharpSelenium/CSharpSelenium/bin/Debug/ThoughtWorks.Selenium.Core.dll
+/Users/shamimyousuf/repo/csharp/CSharpSelenium/CSharpSelenium/bin/Debug/ThoughtWorks.Selenium.Core.xml
